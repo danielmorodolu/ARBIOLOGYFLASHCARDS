@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="TitleScreenManager">
+			<method name="StartGame"/>
+		</type>
+		<type fullname="UIManager">
+			<method name="ClearFacts"/>
+			<method name="StartQuiz"/>
+			<method name="ToggleFact"/>
+		</type>
+	</assembly>
+</linker>
